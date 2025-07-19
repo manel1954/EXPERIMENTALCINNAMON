@@ -19,7 +19,7 @@
 #linea_sed=$numero_linea$letrac
 #sed -i "$linea_sed DATABASEURL='https://ham-digital.org/status/users.csv'" /home/pi/MMDVMHost/linux/DMRIDUpdate.sh
 #
-#sudo sh /home/pi/MMDVMHost/linux/DMRIDUpdate.sh
+#sudo sh /home/pi/MMDVMHost/linux/DMRIDUpdate.sh 
 
                         #14-08-2020 cambio actualizar para que salgan los indicativos en DVSWITCH:
                         cd /var/lib/mmdvm
