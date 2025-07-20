@@ -1,2 +1,2 @@
 #!/bin/bash
-python cerrar_abrir_paneles.py
+python cerrar_abrir_panel_inferior.py
