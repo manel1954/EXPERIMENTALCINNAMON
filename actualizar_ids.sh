@@ -4,7 +4,7 @@
 #buscar=":"
 #largo_linea=`expr index $var $buscar`
 #largo_linea=`expr $largo_linea - 1`
-#numero_linea=`expr substr $var 1 $largo_linea`
+#numero_linea=`expr substr $var 1 $largo_linea` 
 #letrac=c
 #linea_sed=$numero_linea$letrac
 #sed -i "$linea_sed DMRIDPATH=/home/pi/MMDVMHost" /home/pi/MMDVMHost/linux/DMRIDUpdate.sh
