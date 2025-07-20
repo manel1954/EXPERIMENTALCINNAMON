@@ -1,2 +1,2 @@
 #!/bin/bash
-python cerrar_abrir_panel_superior.py
+python3 cerrar_abrir_panel_superior.py
