@@ -102,7 +102,7 @@ def on_left_button_release(event):
         else:
             iniciar_qt()
             btn.config(text='-')
-    # Ya no se guarda la posición
+    # Ya no se guarda la posición 
 
 def get_tooltip_text():
     return "CERRAR PANELES" if btn['text'] == '-' else "ABRIR PANELES"
