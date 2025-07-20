@@ -29,7 +29,7 @@ fi
 usuario="/home/pi"
 usuario="$usuario"
 fecha_imagen=$(awk "NR==1" /home/pi/version-fecha-actualizacion)
-nombre_imagen="CINNA"
+nombre_imagen="CINNA-"
 version=$nombre_imagen$fecha_imagen
 
 
