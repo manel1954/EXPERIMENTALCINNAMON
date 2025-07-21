@@ -9,8 +9,8 @@ puerto=`expr substr $puerto 15 14`
 sed -i "79c $puerto" /home/pi/status.ini
 
 cd /home/pi/YSFClients/YSFGateway
-xterm -geometry 89x5+1287+963 -bg black -fg orange -fa 'serift' -fs 9x -T YSFGateway -e sudo ./YSFGateway YSFGateway.ini & 
+xterm -geometry 89x5+1287+973 -bg black -fg orange -fa 'serift' -fs 9x -T YSFGateway -e sudo ./YSFGateway YSFGateway.ini & 
 cd /home/pi/MMDVMHost
-xterm -geometry 89x5+1287+852 -bg black -fg orange -fa 'serift' -fs 9x -T MMDVMFUSION -e sudo ./MMDVMFUSION MMDVMFUSION.ini
+xterm -geometry 89x5+1287+872 -bg black -fg orange -fa 'serift' -fs 9x -T MMDVMFUSION -e sudo ./MMDVMFUSION MMDVMFUSION.ini
 
 
