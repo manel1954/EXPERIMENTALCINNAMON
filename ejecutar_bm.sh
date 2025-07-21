@@ -11,6 +11,6 @@ puerto=`expr substr $puerto 15 14`
 sed -i "71c $puerto" /home/pi/status.ini
 
 cd /home/pi/MMDVMHost
-xterm -geometry 89x10+1285+246 -bg brown -fg white -fa 'serift' -fs 9x -T BRANDMEISTER -e sudo ./MMDVMBM MMDVMBM.ini &
+xterm -geometry 89x10+1285+249 -bg brown -fg white -fa 'serift' -fs 9x -T BRANDMEISTER -e sudo ./MMDVMBM MMDVMBM.ini &
 
  
