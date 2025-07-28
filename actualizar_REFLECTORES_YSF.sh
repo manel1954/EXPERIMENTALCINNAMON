@@ -8,15 +8,12 @@ CIAN="\033[1;36m"
 GRIS="\033[0m"
 MARRON="\33[38;5;138m"
 
-			#cd /home/pi/YSFClients/YSFGateway
-			##sudo wget -O YSFHosts.txt http://register.ysfreflector.de/export_csv.php 
-           #
-			#curl https://dvref.com/downloads/YSFHosts-resolved.txt > /home/pi/YSFClients/YSFGateway/YSFHosts.txt
-			#
+			cd /home/pi/YSFClients/YSFGateway
+			#sudo wget -O YSFHosts.txt http://register.ysfreflector.de/export_csv.php 
+           
+			curl https://dvref.com/downloads/YSFHosts-resolved.txt > /home/pi/YSFClients/YSFGateway/YSFHosts.txt
 			
-
-			cd /home/pi/A108
-			cp YSFHosts.txt /home/pi/YSFClients/YSFGateway
+		
 			sleep 3
 			sed -i '$a\\21887;ANDALUCIA;ANDALUCIA;51.68.71.60;42000;022' /home/pi/YSFClients/YSFGateway/YSFHosts.txt
 			clear
