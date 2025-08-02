@@ -2,3 +2,4 @@ IPSC2    DOS                                    TRES CUATRO CINCO
 21433_TS2    21433    StartRef=4000;RelinkTime=15;UserLink=1;TS2_1=21433 nousado nousado
 21465_TS2    21465    StartRef=4000;RelinkTime=15;UserLink=1;TS2_1=21465 mousado nousado
 7226_TS1     7226     StartRef=4000;RelinkTime=15;UserLink=1;TS1_1=7226  nousado nousado
+7226_TS1     StartRef=4000;RelinkTime=15;UserLink=1;TS1_1=17226  
