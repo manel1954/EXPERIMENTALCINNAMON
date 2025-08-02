@@ -1,0 +1,7 @@
+ELIGE_UN_HOST_NAME       
+BM_2141_Spain			2141	2141.master.brandmeister.network	passw0rd	62031
+BM_2001_Europe_HAMNET		2001	44.148.230.201				passw0rd	62031
+BM_2022_Greece			2022	2022.master.brandmeister.network	passw0rd	62031
+21433_TS2    21433   StartRef=4000;RelinkTime=15;UserLink=1;TS2_1=21433 nousado nousado
+21465_TS2   21465    StartRef=4000;RelinkTime=15;UserLink=1;TS2_1=21465 mousado nousado
+7226_TS1    7226     StartRef=4000;RelinkTime=15;UserLink=1;TS1_1=7226  nousado nousado
