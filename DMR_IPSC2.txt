@@ -1,4 +1,5 @@
 21433_TS2    21433    StartRef=4000;RelinkTime=15;UserLink=1;TS2_1=21433
 21465_TS2    21465    StartRef=4000;RelinkTime=15;UserLink=1;TS2_1=21465
 7226_TS1     7226     StartRef=4000;RelinkTime=15;UserLink=1;TS1_1=7226 
-17226_TS1    17226    StartRef=4000;RelinkTime=15;UserLink=1;TS1_1=17226  
+EA4MASTER    4374    Options=StartRef=4374;RelinkTime=15;UserLink=1;
+TS1_1=37040  37040   Options=StartRef=4000;RelinkTime=15;UserLink=1;TS1_1=37040
