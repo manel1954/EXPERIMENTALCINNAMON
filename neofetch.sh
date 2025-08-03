@@ -11,6 +11,6 @@ NEGRO="\33[0;30m"
 
 neofetch
 #echo -n "${AMARILLO}"
-#echo "        ESTA VENTANA SE CERRARÁ EN 20 SEGUNDOS"
+echo "   Enter para cerrar"
 #sleep 20
 read a
