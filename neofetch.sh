@@ -11,6 +11,6 @@ NEGRO="\33[0;30m"
 
 neofetch
 #echo -n "${AMARILLO}"
-echo "   Enter para cerrar"
+echo "   Pulsa Enter para cerrar"
 #sleep 20
 read a
